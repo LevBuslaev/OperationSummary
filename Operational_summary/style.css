@@ -1,0 +1,51 @@
+
+p {
+	color: blue;
+	font-size: 55px;
+		}
+
+body {background: url('img/sea-05.jpg') no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;}
+/* http://www.bing.com/images/search?view=detailV2&ccid=oedcpHDJ&id=D466E5D3AA909766FBB2DB938DFE37CE18D689E9&thid=OIP.oedcpHDJVM0KQDmyvnLwLwEsC7&q=%d0%bc%d0%be%d1%80%d0%b5&simid=607988171706730466&selectedIndex=27&ajaxhist=0
+*/
+.posit1 {
+		position: relative; 
+		left: 30px; top: 200px;
+		color: white;
+		font-size: 28px;
+		}
+.posit2 {
+		position: relative; 
+		left: 30px; top: 230px;
+		color: white;
+		font-size: 28px;
+		}
+.pog1 	{
+		position: relative; 
+		left: 30px; top: 230px;
+		color: white;
+		font-size: 28px;
+		}
+.poisk1 {
+		position: relative; 
+		left: 30px; top: 260px;
+		color: white;
+		font-size: 28px;
+		}
+ a {
+    color: white; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   	padding: 2px; /* Поля вокруг текста */
+   }
+   a:visited {
+    color: white; /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: blue; /* Цвет ссылки при наведении на нее курсора мыши */  
+    background: greenyellow;/*#e24486; /* Цвет фона */
+    box-shadow: 10px 10px 10px blue;
+    text-decoration: none; /* Добавляем подчеркивание */
+   }
